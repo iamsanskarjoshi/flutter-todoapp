@@ -27,7 +27,6 @@ class _TasksScreenState extends State<TasksScreen> {
           child: ListView(
             children: const [
               ListTile(
-                //hello this is comment
                 title: Text('Hello'),
               ),
               ListTile(
